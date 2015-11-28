@@ -1,21 +1,21 @@
 html, body {
     height: 100%;
-    background-color: #ff2432;
+    background-color: red;
 }
 
 h1 {
-    color: #2f234a;
+    color: yellow;
 }
 h3 {
-    color: #2342a1;
+    color: pink;
 }
 p, li {
-    color: #45f423;
+    color: blue;
 }
 span {
     padding-right: .1em;
 }
 a {
-    color: #4232c3;
+    color: brown;
 }
 
