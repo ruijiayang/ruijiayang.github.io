@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    background-color: #ff2432;
+}
+
+h1 {
+    color: #2f234a;
+}
+h3 {
+    color: #2342a1;
+}
+p, li {
+    color: #45f423;
+}
+span {
+    padding-right: .1em;
+}
+a {
+    color: #4232c3;
+}
+
