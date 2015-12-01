@@ -4,7 +4,7 @@ html, body {
 }
 
 h1, h3, p {
-    color: green;
+    color: #66ff00;
 }
 
 span {
@@ -12,6 +12,6 @@ span {
 }
 
 a {
-    color: teal;
+    color: #33ffff;
 }
 
