@@ -1,0 +1,24 @@
+BOOKS {
+    background-color: #ffffff;
+    width: 100%;
+}
+BOOK {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+TITLE {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+AUTHOR {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+DATEREAD, REC {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
